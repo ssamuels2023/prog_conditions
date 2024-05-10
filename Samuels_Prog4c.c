@@ -8,6 +8,7 @@ conditions, a while loop, and programmer defined functions
 COP2220 2.20.2024
 */
 
+
 #include<stdio.h> //for printf and scanf
 
 //function prototypes
